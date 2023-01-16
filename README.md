@@ -32,7 +32,7 @@ Done! Saved to ./output_image.png
 ## Results
 
 ![Bird](../assets/painterlybird.png?raw=true)
-![OBird](../assets/bird.png)
+![OBird](../assets/bird.jpg)
 
 
 
