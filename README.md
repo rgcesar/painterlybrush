@@ -4,6 +4,8 @@
 
 A python implementation of a painting algorithm described in a paper "Painterly Rendering with Curved Brush Strokes of Multiple Sizes" by Aaron Hertzmann.
 
+<img src="../assets/penguinsample.jpg" width="400">
+
 ## Summary of the algorithm
 
 
