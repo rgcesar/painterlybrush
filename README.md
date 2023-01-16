@@ -31,6 +31,7 @@ Done! Saved to ./output_image.png
 
 ## results
 
+![Bird](../assets/painterlybird.png?raw=true)
 
 
 
