@@ -4,7 +4,9 @@
 
 A python implementation of a painting algorithm described in a paper "Painterly Rendering with Curved Brush Strokes of Multiple Sizes" by Aaron Hertzmann.
 
+<p align="center">
 <img src="../assets/penguinsample.jpg" width="400">
+</p>
 
 ## Summary of the algorithm
 
@@ -33,9 +35,10 @@ Done! Saved to ./output_image.png
 
 ## Results
 
-
+<p align="center">
 <img src="../assets/painterlybird.png" width="600">
 <img src="../assets/bird.jpg" width="200">
+</p>
 
 
 
