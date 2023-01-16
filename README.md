@@ -8,6 +8,8 @@ A python implementation of a painting algorithm described in a paper "Painterly 
 <img src="../assets/penguinsample.jpg" width="400">
 </p>
 
+Checkout the 'assets' branch to see more examples.
+
 ## Summary of the algorithm
 
 
