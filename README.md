@@ -32,7 +32,7 @@ Done! Saved to ./output_image.png
 ## Results
 
 
-<img src="../assets/painterlybird.png" width="400">
+<img src="../assets/painterlybird.png" width="600">
 <img src="../assets/bird.jpg" width="200">
 
 
