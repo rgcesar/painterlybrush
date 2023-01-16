@@ -31,8 +31,8 @@ Done! Saved to ./output_image.png
 
 ## Results
 
-![Bird](../assets/painterlybird.png?raw=true)
-![OBird](../assets/bird.jpg)
+![Bird](../assets/painterlybird.png?raw=true | width=200)
+![OBird](../assets/bird.jpg | width=200)
 
 
 
