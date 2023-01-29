@@ -20,7 +20,7 @@ The algorithm produces painterly renderings of images by using layers of differe
 
 
 
-Hertzman's paper gives parameters for 4 painting styles: Imperssionist, Expressionist, Colorist Wash, and Pointillist. These have been included in the examples.
+Hertzmann's paper gives parameters for 4 painting styles: Imperssionist, Expressionist, Colorist Wash, and Pointillist. These have been included in the examples.
 
 ## Usage
 
